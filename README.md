@@ -10,7 +10,7 @@ BOANONG JOSHUA
 
 ## About
 
-This project was taken as a learning tutorial to help build my JavaScript skills..
+This project was taken as a learning tutorial to help build my JavaScript skills...
 
 ## Built With
   This project was built with
